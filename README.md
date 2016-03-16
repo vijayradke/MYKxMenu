@@ -4,7 +4,7 @@ swift version of KxMenu
 
 here is the photo
 
- ![image](https://github.com/marshallYin/MYKxMenu/raw/master/photo.jpg)
+ ![image](https://github.com/marshallYin/MYKxMenu/raw/master/photo.png)
  
  Usage（用法）
  
